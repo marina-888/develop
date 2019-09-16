@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">PersonalSetting</string>
+    <string name="tv_msg">なまえ</string>
+    <string name="bt_setting">設定</string>
+    <string name="rb_man">男性</string>
+    <string name="rb_female">女性</string>
+</resources>
